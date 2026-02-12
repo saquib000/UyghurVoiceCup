@@ -1,6 +1,7 @@
 # 🎙 Uyghur Speech-to-Text – Whisper Fine-Tuning Project
 
 > Task: build a high-performing ASR system capable of accurately transcribing audio clips in the Uyghur language as 2 day timed kaggle competetion.
+- Succesfully Ranked 19/98 on Kaggle! 
 
 ## 📌 Overview
 
